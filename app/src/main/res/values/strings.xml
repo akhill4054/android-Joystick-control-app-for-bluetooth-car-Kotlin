@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Blue Joystick (Truck)</string>
+    <string name="title_activity_ble">BLE</string>
+</resources>
